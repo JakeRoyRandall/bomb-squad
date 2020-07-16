@@ -1,39 +1,21 @@
-# bomb-squad
+# BOMB SQUAD!
+
+## PROJECT OVERVIEW
+```
+A Minesweeper remake designed to delight created so I can explore web technologies like Vue.js
+```
 
 ## FEATURE LIST
-
 ```
-[ ] Contact the media
-[✓] Contact the media
-[ ] Contact the media
-
+- things that
+- go boom
+-
 ```
 
-## MVP TODO
-
-## POLISH TODO
-
-## ADVANCED TODO
-
-<!-- ## Project setup
+<!-- Fat CheckMark: ✔ -->
+## TASK LIST
 ```
-yarn install
-``` -->
-
-<!-- ### Compiles and hot-reloads for development
+[✔] Organize project in README.md with Features & Tasks
+[ ] gameboard
+[ ] square
 ```
-yarn serve
-``` -->
-
-<!-- ### Compiles and minifies for production
-```
-yarn build
-``` -->
-
-<!-- ### Lints and fixes files
-```
-yarn lint
-``` -->
-
-<!-- ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/). -->

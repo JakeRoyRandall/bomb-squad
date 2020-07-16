@@ -90,6 +90,9 @@ term
 
 ~~The world is flat.~~
 
+
+<!-- Fat CheckMark: ✔ -->
+
 ### Task List
 
 - [x] Write the press release
