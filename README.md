@@ -19,3 +19,5 @@ A Minesweeper remake designed to delight created so I can explore web technologi
 [ ] gameboard
 [ ] square
 ```
+
+<!-- git add . && git commit -m"" && git push -->
